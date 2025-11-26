@@ -99,7 +99,7 @@ const Hero = ({ onViewProjects, onViewResume }: HeroProps) => (
       {/* Profile photo served from public/ so it works in build */}
       <div className="relative aspect-[4/5] w-full max-w-sm overflow-hidden rounded-[2rem] border border-white/10 shadow-inner-glow">
         <img
-          src="/profile.jpg"
+          src="/Screenshot 2025-11-26 115558.png"
           alt="Supriya Singh"
           className="h-full w-full object-cover object-top"
           loading="lazy"

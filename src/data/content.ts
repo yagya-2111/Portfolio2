@@ -32,7 +32,7 @@ export const educationTimeline: EducationEntry[] = [
     institution: 'Institute of Technology and Management, GIDA, Gorakhpur',
     description: 'Exploring modern software engineering, system design, and user-centric web experiences.',
     duration: '2023 – 2027',
-    logo: '/src/data/Layer-1.png',
+    logo: '/logos/college.jpg',
   },
   {
     id: 'class12',
